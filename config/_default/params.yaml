@@ -62,7 +62,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/mush-zhang/homepage'
+    url: 'https://github.com/mush-zhang/mush-zhang.github.io'
     content_dir: content
     branch: main
   avatar:
