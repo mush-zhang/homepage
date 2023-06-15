@@ -1,27 +1,31 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Ling Zhang
-date: 2022-10-24
 type: landing
-
 sections:
+  # - block: hero
+  #   content:
+  #     text: |-
+  #      <br/><br/><br/><br/>
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image:
+  #         # Name of image in `assets/media/`.
+  #         filename: header.jpg
+  #         filters:
+  #           brightness: 1
+  #         #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+  #         size: actual
+  #         position: center
+  #         parallax: true
+  #         text_color_light: true
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
   - block: collection
     id: publication
     content:
@@ -34,3 +38,7 @@ sections:
       columns: '2'
       view: citation
 ---
+
+<!-- header:
+  image: "/headers/bubbles-wide.jpg"
+  caption: "Yay! It works!" -->

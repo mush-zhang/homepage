@@ -5,7 +5,7 @@ title: 'Exploiting Structure in Regular Expression Queries'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ling Zhang
+  - admin
   - Shaleen Deep
   - Avrilia Floratou
   - Anja Gruenheid
@@ -40,13 +40,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 # url_project: ''
-# url_slides: ''
 # url_source: ''
 # url_video: ''
 
 url_pdf: 'publication/blare/BLARE.pdf'
 url_code: 'https://github.com/mush-zhang/Blare'
 url_poster: 'publication/blare/Ling_blare_poster.png'
+url_slides: 'publication/blare/blare_new_slides.pdf'
 
 # # Associated Projects (optional).
 # #   Associate this publication with one or more of your projects.

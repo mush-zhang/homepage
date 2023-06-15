@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ling Zhang 张岭
+title: Ling Zhang
 
 # Full name (for SEO)
 first_name: Ling
@@ -35,13 +35,13 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Wisconsin–Madison
-      year: 2021 - 
+      year: now 
     - course: M.S. in Computer Science
       institution: Carnegie Mellon University
-      year: 2019 - 2020
+      year: 2020
     - course: B.S. in Computer Science
       institution: Purdue University
-      year: 2015 - 2019
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -77,8 +77,8 @@ email: ''
 highlight_name: true
 ---
 
-Ling Zhang is a third-year Ph.D student in Computer Science at [University of Wisconsin-Madison](https://www.cs.wisc.edu/). I am part of the [Database Group](https://database.cs.wisc.edu/) and I am fortunate to be advised by Prof. [Jignesh M. Patel](https://pages.cs.wisc.edu/~jignesh/). I actively collaborating with [Gray Systems Lab - Microsoft Research](https://www.microsoft.com/en-us/research/group/gray-systems-lab/). My research forcuses on log processing and management, structured text search, and database query processing in general.
+Ling Zhang (张岭) is a third-year Ph.D student in Computer Science at [University of Wisconsin-Madison](https://www.cs.wisc.edu/). I am part of the [Database Group](https://database.cs.wisc.edu/) and I am fortunate to be advised by Prof. [Jignesh M. Patel](https://pages.cs.wisc.edu/~jignesh/). I actively collaborating with [Gray Systems Lab - Microsoft Research](https://www.microsoft.com/en-us/research/group/gray-systems-lab/). My research forcuses on log processing and management, structured text search, and database query processing in general.
 
-I received Master's Degree in Computer Science from [Carnegie Mellon University](https://www.cs.cmu.edu/) where am a part of the [CMU DB Group](https://db.cs.cmu.edu/) working with Prof. [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/). I did my undergraduate at [Purdue University](https://www.cs.purdue.edu/), advised by Prof. [Yung-Hsiang Lu](https://yhlu.net/).
+I received Master's Degree in Computer Science from [Carnegie Mellon University](https://www.cs.cmu.edu/) where am a part of the [CMU DB Group](https://db.cs.cmu.edu/) working with Prof. [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/). I did my undergraduate at [Purdue University](https://www.cs.purdue.edu/), advised by Prof. [Yung-Hsiang Lu](https://yhlu.net/) and Prof. [George K. Thiruvathukal](https://gkt.sh/).
 
 {style="text-align: justify;"}
