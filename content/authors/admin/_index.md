@@ -35,7 +35,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Wisconsin–Madison
-      year: now 
+      year:  in progress
     - course: M.S. in Computer Science
       institution: Carnegie Mellon University
       year: 2020
