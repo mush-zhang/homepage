@@ -1,5 +1,5 @@
 ---
-title: 'Everything is a Transaction: Unifying Logical Concurrency Control and Physical Data Structure Maintenance in atabase Management Systems'
+title: 'Everything is a Transaction: Unifying Logical Concurrency Control and Physical Data Structure Maintenance in Database Management Systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
