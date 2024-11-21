@@ -80,8 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-Ling Zhang (张岭) is a fourth-year Ph.D student in Computer Science at [University of Wisconsin-Madison](https://www.cs.wisc.edu/). I am part of the [Database Group](https://database.cs.wisc.edu/) and I am fortunate to be advised by Prof. [Jignesh M. Patel](https://jigneshpatel.org/) and [Karu Sankaralingam](https://karu.sites.cs.wisc.edu/wiki/)
-highlight_name: true. I actively collaborating with [Gray Systems Lab - Microsoft Research](https://www.microsoft.com/en-us/research/group/gray-systems-lab/). My research focuses on log processing and management, structured text search, and database query processing in general.
+Ling Zhang (张岭) is a fourth-year Ph.D student in Computer Science at [University of Wisconsin-Madison](https://www.cs.wisc.edu/). I am part of the [Database Group](https://database.cs.wisc.edu/) and I am fortunate to be advised by Prof. [Jignesh M. Patel](https://jigneshpatel.org/) and [Karu Sankaralingam](https://karu.sites.cs.wisc.edu/wiki/). I actively collaborating with [Gray Systems Lab - Microsoft Research](https://www.microsoft.com/en-us/research/group/gray-systems-lab/). My research focuses on log processing and management, structured text search, and database query processing in general.
 
 I received Master's Degree in Computer Science from [Carnegie Mellon University](https://www.cs.cmu.edu/) where am a part of the [CMU DB Group](https://db.cs.cmu.edu/) working with Prof. [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/). I did my undergraduate at [Purdue University](https://www.cs.purdue.edu/), advised by Prof. [Yung-Hsiang Lu](https://yhlu.net/) and Prof. [George K. Thiruvathukal](https://gkt.sh/).
 
