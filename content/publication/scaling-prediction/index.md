@@ -15,7 +15,7 @@ date: '2025-02-05T00:00:00Z'
 # doi: '10.1145/3589297'
 
 # # Schedule page publish date (NOT publication's date).
-# publishDate: '2025-03-25T00:00:00Z'
+publishDate: '2025-03-25T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publication_types: ['1']
 publication: In *International Conference on Extending Database Technology* 2025
 publication_short: In *EDBT* 2025
 
-abstract: Understanding and predicting database workload performance on different hardware settings in the cloud is crucial for both the users and providers in order to optimize resource allocation. Recently, machine learning (ML) based techniques have been applied to parts of the end-to-end three-step pipeline for workload prediction: feature selection, workload similarity, and performance prediction. However, despite its practical importance, there exists no principled analysis that studies the performance of such pipelines. In this paper, we examine the state-of-the-art strategies for these three components, with the goal of identifying which techniques work best in practice. Our experimental results reveal that while no universal solution exists for the prediction pipeline, certain best practices can improve prediction performance and reduce computation overhead. Based on our results, we outline important topics for future work that will benefit ML-driven recommendation systems for resource allocation.
+abstract: "Understanding and predicting database workload performance on different hardware settings in the cloud is crucial for both the users and providers in order to optimize resource allocation. Recently, machine learning (ML) based techniques have been applied to parts of the end-to-end three-step pipeline for workload prediction: feature selection, workload similarity, and performance prediction. However, despite its practical importance, there exists no principled analysis that studies the performance of such pipelines. In this paper, we examine the state-of-the-art strategies for these three components, with the goal of identifying which techniques work best in practice. Our experimental results reveal that while no universal solution exists for the prediction pipeline, certain best practices can improve prediction performance and reduce computation overhead. Based on our results, we outline important topics for future work that will benefit ML-driven recommendation systems for resource allocation."
 
 tags: [Benchmarking and performance evaluation, ML/AI for DB]
 
