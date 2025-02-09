@@ -42,7 +42,7 @@ featured: true
 # url_source: ''
 # url_video: ''
 
-url_pdf: 'phttps://github.com/mush-zhang/scaling-prediction/blob/main/ScalingPerformanceComputation_extended.pdf'
+url_pdf: 'https://github.com/mush-zhang/scaling-prediction/blob/main/ScalingPerformanceComputation_extended.pdf'
 url_code: 'https://github.com/mush-zhang/scaling-prediction'
 # url_poster: 'publication/blare/Ling_blare_poster.png'
 # url_slides: 'publication/blare/blare_new_slides.pdf'

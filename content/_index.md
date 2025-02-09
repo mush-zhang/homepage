@@ -35,7 +35,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '3'
+      columns: '2'
       view: citation
 ---
 
