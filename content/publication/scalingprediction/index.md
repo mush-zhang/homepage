@@ -27,7 +27,7 @@ publication_types: ['1']
 publication: In *International Conference on Extending Database Technology* 2025
 publication_short: In *EDBT* 2025
 
-abstract: "Understanding and predicting database workload performance on different hardware settings in the cloud is crucial for both the users and providers in order to optimize resource allocation. Recently, machine learning (ML) based techniques have been applied to parts of the end-to-end three-step pipeline for workload prediction: feature selection, workload similarity, and performance prediction. However, despite its practical importance, there exists no principled analysis that studies the performance of such pipelines. In this paper, we examine the state-of-the-art strategies for these three components, with the goal of identifying which techniques work best in practice. Our experimental results reveal that while no universal solution exists for the prediction pipeline, certain best practices can improve prediction performance and reduce computation overhead. Based on our results, we outline important topics for future work that will benefit ML-driven recommendation systems for resource allocation."
+abstract: Understanding and predicting database workload performance on different hardware settings in the cloud is crucial for both the users and providers in order to optimize resource allocation. Recently, machine learning (ML) based techniques have been applied to parts of the end-to-end three-step pipeline for workload prediction - feature selection, workload similarity, and performance prediction. However, despite its practical importance, there exists no principled analysis that studies the performance of such pipelines. In this paper, we examine the state-of-the-art strategies for these three components, with the goal of identifying which techniques work best in practice. Our experimental results reveal that while no universal solution exists for the prediction pipeline, certain best practices can improve prediction performance and reduce computation overhead. Based on our results, we outline important topics for future work that will benefit ML-driven recommendation systems for resource allocation.
 
 tags: [Benchmarking and performance evaluation, ML/AI for DB]
 
@@ -44,8 +44,6 @@ featured: true
 
 url_pdf: 'https://github.com/mush-zhang/scaling-prediction/blob/main/ScalingPerformanceComputation_extended.pdf'
 url_code: 'https://github.com/mush-zhang/scaling-prediction'
-# url_poster: 'publication/blare/Ling_blare_poster.png'
-# url_slides: 'publication/blare/blare_new_slides.pdf'
 
 # # Associated Projects (optional).
 # #   Associate this publication with one or more of your projects.
