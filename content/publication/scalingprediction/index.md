@@ -1,5 +1,6 @@
 ---
-title: 'From Feature Selection to Resource Prediction: An Analysis of Commonly Applied Workflows and Techniques [Experiments & Analysis]'
+# title: 'From Feature Selection to Resource Prediction: An Analysis of Commonly Applied Workflows and Techniques \[Experiments & Analysis\]'
+title: 'From Feature Selection to Resource Prediction: An Analysis of Commonly Applied Workflows and Techniques'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
