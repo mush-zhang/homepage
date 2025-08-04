@@ -1,5 +1,6 @@
 ---
-title: 'From Feature Selection to Resource Prediction: An Analysis of Commonly Applied Workflows and Techniques [Experiments & Analysis]'
+# title: 'From Feature Selection to Resource Prediction: An Analysis of Commonly Applied Workflows and Techniques \[Experiments & Analysis\]'
+title: 'From Feature Selection to Resource Prediction: An Analysis of Commonly Applied Workflows and Techniques'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,7 +13,7 @@ authors:
   - Jignesh M. Patel
 
 date: '2025-02-05T00:00:00Z'
-# doi: '10.1145/3589297'
+doi: '10.48786/edbt.2025.73'
 
 # # Schedule page publish date (NOT publication's date).
 # publishDate: '2025-03-25T00:00:00Z'
@@ -42,7 +43,7 @@ featured: true
 # url_source: ''
 # url_video: ''
 
-url_pdf: 'https://github.com/mush-zhang/scaling-prediction/blob/main/ScalingPerformanceComputation_extended.pdf'
+url_pdf: 'https://openproceedings.org/2025/conf/edbt/paper-187.pdf'
 url_code: 'https://github.com/mush-zhang/scaling-prediction'
 
 # # Associated Projects (optional).
