@@ -1,6 +1,7 @@
 # IDEs
 .idea/
 .vs/
+.DS_store
 
 # Hugo
 resources/
