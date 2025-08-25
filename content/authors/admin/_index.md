@@ -26,9 +26,10 @@ bio: My research forcuses on log processing and management, structured text sear
 
 # Interests to show in About widget
 interests:
+  - Database Query Optimization
+  - Database Indexing
   - Log Processing & Management
   - Structured Text Search
-  - Database Query Processing
 
 # Education to show in About widget
 education:
